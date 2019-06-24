@@ -1,0 +1,50 @@
+[
+    {
+        "id":"1",
+        "name":"dog1",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-6.jpg",
+        "value": "false"
+    },
+    {
+        "id":"2",
+        "name":"dog2",
+        "image":"https://i.pinimg.com/564x/55/ac/50/55ac50b244c791bd24747dfd25058c80.jpg",
+        "value": "false"
+    },
+    {
+        "id":"3",
+        "name":"dog3",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-5.jpg",
+        "value": "false"
+    },
+    {
+        "id":"4",
+        "name":"dog4",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-7.jpg",
+        "value": "false"
+    },
+    {
+        "id":"5",
+        "name":"dog5",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-14.jpg",
+        "value": "false"
+    },
+    {
+        "id":"6",
+        "name":"dog6",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-8.jpg",
+        "value": "false"
+    },
+    {
+        "id":"7",
+        "name":"dog7",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-2.jpg",
+        "value": "false"
+    },
+    {
+        "id":"8",
+        "name":"dog8",
+        "image":"https://mymodernmet.com/wp/wp-content/uploads/2017/09/dog-portraits-alexander-khokhlov-17.jpg",
+        "value": "false"
+    }
+]
